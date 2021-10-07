@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-tooty",
+  "version": "1.0.0",
+  "description": "Following a tutorial, learning about puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BR3NDAN-L8N/Puppeteer-Tooty.git"
+  },
+  "keywords": [],
+  "author": "BrendanLeighton.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BR3NDAN-L8N/Puppeteer-Tooty/issues"
+  },
+  "homepage": "https://github.com/BR3NDAN-L8N/Puppeteer-Tooty#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
